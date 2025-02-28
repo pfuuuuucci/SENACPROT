@@ -29,6 +29,7 @@ Este documento reúne os elementos necessários para o desenvolvimento de um pro
 ![Image](https://github.com/user-attachments/assets/a8cf7252-936e-4ab6-868a-2720ea989df4)
 
 ## 1- DIAGRAMA DE CLASSES
+![Image](https://github.com/user-attachments/assets/fa6fc242-94a5-4b0b-9cec-1894ee5d3058)
 
 ## Caso de Uso 1 – Fazer Login
 **Ator Principal:** Usuário do Sistema  
