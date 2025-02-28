@@ -17,6 +17,11 @@ Os principais resultados esperados nessa etapa do projeto são:
 - Representação visual das Classes a serem implementadas pelo sistema;
 - Detalhamento dos cenários principal e alternativos, bem como pré-condição e pós-condição, de cada Caso de Uso relacionado; 
 
+## Considerações Finais
+O desenvolvimento deste projeto pretende explorar a metodologia UML e sua utilidade como ferramenta para a Documentação de Software, tanto no que diz respeito ao armazenamento do conhecimento quanto no tocante à especificação de requisitos.
+
+**Palavras-chave:** UML, Diagrama, Classe, Cenário, Caso de Uso, Cadastro, Universidade, Aluno, Professor, Fornecedor.
+
 ## Caso de Uso 1 – Fazer Login
 **Ator Principal:** Usuário do Sistema  
 **Pré-condições:**
