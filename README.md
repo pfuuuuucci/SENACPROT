@@ -25,7 +25,10 @@ O desenvolvimento deste projeto pretende explorar a metodologia UML e sua utilid
 ## INTRODUÇÃO - Visão Geral do Produto 
 Este documento reúne os elementos necessários para o desenvolvimento de um produto de software através do paradigma de Orientação a Objetos. Utilizando a metodologia UML, relacionamos aqui os Diagramas de Casos de Uso e de Classes, bem como os artefatos de Descrição de Casos de Uso referentes às funcionalidades descritas na proposta do projeto, compondo o restante da documentação.
 
+## 1- DIAGRAMA DE CASO DE USO
+![Image](https://github.com/user-attachments/assets/a8cf7252-936e-4ab6-868a-2720ea989df4)
 
+## 1- DIAGRAMA DE CLASSES
 
 ## Caso de Uso 1 – Fazer Login
 **Ator Principal:** Usuário do Sistema  
