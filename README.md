@@ -266,3 +266,7 @@ bloqueada: **"Número máximo de tentativas excedido"**
 A Metodologia UML nos permite modelar e especificar os requisitos do nosso sistema. Ela tem
 muitos benefícios, dentre os quais permitir planejar nosso projeto e validar requisitos com os
 usuários, além de especificar tecnicamente o produto de software para os desenvolvedores. 
+
+## PROTÓTIPO
+O link para acessar o protótipo é: 
+https://www.figma.com/proto/9MxE0q0XmLWvROaSTm3ntZ/Protótipo?node-id=0-1&t=N0vU6iAWRHE6AcbF-1 
