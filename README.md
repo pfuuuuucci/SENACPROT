@@ -270,3 +270,6 @@ usuários, além de especificar tecnicamente o produto de software para os desen
 ## PROTÓTIPO
 O link para acessar o protótipo é: 
 https://www.figma.com/proto/9MxE0q0XmLWvROaSTm3ntZ/Protótipo?node-id=0-1&t=N0vU6iAWRHE6AcbF-1 
+
+Obs.1:Para avançar na tela de autenticação (login), basta clicar no campo, e o preenchimento será automático; em caso de dúvida, o Figma destacará em azul quais locais podem/devem ser clicados;
+Obs.2:O protótipo funcional tem por objetivo ilustrar e tornar palpável a experiência do usuário, bem como fornecer ao desenvolvedor um padrão visual para as telas, no entanto, não há persistência de dados, apenas uma simulação;
